@@ -56,13 +56,14 @@ Through this project, I gained hands-on experience in:
 
 ## 📂 Project Structure
 
+```text
 SCT_WD_1/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 ---
 
 ## 🔗 Author
