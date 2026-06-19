@@ -69,4 +69,3 @@ SCT_WD_1/
 
 Reddy Gayatri Satya Sai Pravallika
 
-B
